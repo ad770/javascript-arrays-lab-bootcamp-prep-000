@@ -4,20 +4,20 @@ const app = "I don't do much."
 
 kittens = ["Milo", "Otis", "Garfield"];
 
-destructivelyAppendKitten(name){
+function destructivelyAppendKitten(name){
   kittens.push(name);
 }
 
-destructivelyPrependKitten(name)
+function destructivelyPrependKitten(name){}
 
-destructivelyRemoveLastKitten()
+function destructivelyRemoveLastKitten(){}
 
-destructivelyRemoveFirstKitten()
+function destructivelyRemoveFirstKitten(){}
 
-appendKitten(name)
+function appendKitten(name){}
 
-prependKitten(name)
+function prependKitten(name){}
 
-removeLastKitten()
+function removeLastKitten(){}
 
-removeFirstKitten()
+function removeFirstKitten(){}
