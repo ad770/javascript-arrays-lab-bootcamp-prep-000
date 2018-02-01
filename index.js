@@ -1,8 +1,8 @@
 const app = "I don't do much."
 
-Arrays
+//Arrays
 
-kittens
+kittens = ["Milo", "Otis", "Garfield"];
 
 destructivelyAppendKitten(name)
 
